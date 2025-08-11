@@ -1,0 +1,5 @@
+python: Python is a high-level programming language known for its simplicity.
+
+nltk: NLTK is a Natural Language Toolkit for processing human language.
+
+jarvis: J.A.R.V.I.S is your AI assistant created by Tiago Setti.
