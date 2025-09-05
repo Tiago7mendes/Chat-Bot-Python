@@ -1,0 +1,11 @@
+🧠 O que você pode melhorar depois:
+
+Adicionar reconhecimento de voz (usando speech_recognition).
+
+Gerar fala com pyttsx3.
+
+Adicionar botão para limpar o chat.
+
+Melhorar o design com tkinter.ttk ou usar PyQt5 para uma GUI mais avançada.
+
+Se quiser que eu monte uma versão com PyQt5, com ícones, temas escuros, ou até versão empacotada para Windows/Linux (como .exe), posso ajudar também.

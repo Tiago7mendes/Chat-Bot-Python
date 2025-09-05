@@ -1,5 +1,29 @@
-python: Python is a high-level programming language known for its simplicity.
+python: Python is a high-level, interpreted programming language known for its readability and versatility.
 
 nltk: NLTK is a Natural Language Toolkit for processing human language.
 
 jarvis: J.A.R.V.I.S is your AI assistant created by Tiago Setti.
+
+ai:AI stands for Artificial Intelligence. It's the simulation of human intelligence in machines.
+
+machine learning:Machine learning is a subset of AI that allows computers to learn from data.
+
+deep learning:Deep learning is a type of machine learning that uses neural networks with many layers.
+
+tiago setti:Tiago Setti is the mind behind this chatbot project.
+
+nltk:NLTK is a Python library for working with human language data (natural language processing).
+
+openweather:OpenWeather is an API that provides weather data around the world.
+
+tkinter:Tkinter is a Python library used to create graphical user interfaces (GUIs).
+
+java:Java is a popular programming language, especially for building enterprise-scale applications.
+
+html:HTML stands for HyperText Markup Language, and it's used to structure web pages.
+
+css:CSS stands for Cascading Style Sheets, used to style the appearance of web content.
+
+javascript:JavaScript is a versatile programming language primarily used in web development.
+
+github:GitHub is a platform for version control and collaboration, allowing developers to store and manage their code.
